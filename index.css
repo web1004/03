@@ -33,16 +33,16 @@
   background-size:cover;
   opacity:0.8;    
 }
-.w_bg ul li:nth-child(1){background-image:url(../image/w_bg_01.jpg);}
-.w_bg ul li:nth-child(2){background-image:url(../image/w_bg_02.jpg);}
-.w_bg ul li:nth-child(3){background-image:url(../image/w_bg_03.jpg);}
-.w_bg ul li:nth-child(4){background-image:url(../image/w_bg_04.jpg);}	
-.w_bg ul li:nth-child(5){background-image:url(../image/w_bg_05.jpg);}
-.w_bg ul li:nth-child(6){background-image:url(../image/w_bg_06.jpg);}
-.w_bg ul li:nth-child(7){background-image:url(../image/w_bg_07.jpg);}
-.w_bg ul li:nth-child(8){background-image:url(../image/w_bg_08.jpg);}
-.w_bg ul li:nth-child(9){background-image:url(../image/w_bg_09.jpg);}
-.w_bg ul li:nth-child(10){background-image:url(../image/w_bg_10.jpg);}
+.w_bg ul li:nth-child(1){background-image:url(image/w_bg_01.jpg);}
+.w_bg ul li:nth-child(2){background-image:url(image/w_bg_02.jpg);}
+.w_bg ul li:nth-child(3){background-image:url(image/w_bg_03.jpg);}
+.w_bg ul li:nth-child(4){background-image:url(image/w_bg_04.jpg);}	
+.w_bg ul li:nth-child(5){background-image:url(image/w_bg_05.jpg);}
+.w_bg ul li:nth-child(6){background-image:url(image/w_bg_06.jpg);}
+.w_bg ul li:nth-child(7){background-image:url(image/w_bg_07.jpg);}
+.w_bg ul li:nth-child(8){background-image:url(image/w_bg_08.jpg);}
+.w_bg ul li:nth-child(9){background-image:url(image/w_bg_09.jpg);}
+.w_bg ul li:nth-child(10){background-image:url(image/w_bg_10.jpg);}
 
 
 /* 컨텐츠 영역(왼쪽 텍스트 + 오른쪽 태블릿) //////////// */
@@ -221,7 +221,7 @@
   width:917px;
   height:675px;
   z-index:100;
-	background:url(../image/tab.png);
+	background:url(image/tab.png);
 }
 .w_shadow{  /*태블릿 그림자*/
   position:absolute;
@@ -260,16 +260,16 @@
   background-repeat:no-repeat;
 }
 
-.w_tab_slide ul li:nth-child(1){background-image:url(../image/win_img_01.jpg);}
-.w_tab_slide ul li:nth-child(2){background-image:url(../image/win_img_02.jpg);}
-.w_tab_slide ul li:nth-child(3){background-image:url(../image/win_img_03.jpg);}
-.w_tab_slide ul li:nth-child(4){background-image:url(../image/win_img_04.jpg);}       
-.w_tab_slide ul li:nth-child(5){background-image:url(../image/win_img_05.jpg);}   
-.w_tab_slide ul li:nth-child(6){background-image:url(../image/win_img_06.jpg);}  
-.w_tab_slide ul li:nth-child(7){background-image:url(../image/win_img_07.jpg);}   
-.w_tab_slide ul li:nth-child(8){background-image:url(../image/win_img_08.jpg);}   
-.w_tab_slide ul li:nth-child(9){background-image:url(../image/win_img_09.jpg);}   
-.w_tab_slide ul li:nth-child(10){background-image:url(../image/win_img_10.jpg);}
+.w_tab_slide ul li:nth-child(1){background-image:url(image/win_img_01.jpg);}
+.w_tab_slide ul li:nth-child(2){background-image:url(image/win_img_02.jpg);}
+.w_tab_slide ul li:nth-child(3){background-image:url(image/win_img_03.jpg);}
+.w_tab_slide ul li:nth-child(4){background-image:url(image/win_img_04.jpg);}       
+.w_tab_slide ul li:nth-child(5){background-image:url(image/win_img_05.jpg);}   
+.w_tab_slide ul li:nth-child(6){background-image:url(image/win_img_06.jpg);}  
+.w_tab_slide ul li:nth-child(7){background-image:url(image/win_img_07.jpg);}   
+.w_tab_slide ul li:nth-child(8){background-image:url(image/win_img_08.jpg);}   
+.w_tab_slide ul li:nth-child(9){background-image:url(image/win_img_09.jpg);}   
+.w_tab_slide ul li:nth-child(10){background-image:url(image/win_img_10.jpg);}
 
 
 /*모달창 영역 //////////////////////*/
